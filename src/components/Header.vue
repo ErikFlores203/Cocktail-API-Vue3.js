@@ -67,7 +67,7 @@
                 <div class="space-y-4">
                     <label for="ingrediente"
                         class="block text-white uppercase font-extrabold text-lg"
-                    > Nombre o Ingredientes</label>
+                    >Ingredientes</label>
                     <select
                         id="ingrediente"
                         class="p-3 w-full rounded-lg focus:outline-none"
